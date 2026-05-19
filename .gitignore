@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+config.ini
+config_qwen_split.ini
+output/
+.claude/
